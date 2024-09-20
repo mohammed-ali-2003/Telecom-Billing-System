@@ -23,7 +23,6 @@ The **Telecom Billing System** aims to automate the tasks associated with managi
 
 - `/src` - Contains the C source code for the project
 - `/docs` - Documentation for the project
-- `/snapshots` - Contains screenshots of the project interface and outputs
 - `/bin` - Compiled binary files (if applicable)
 
 ## Installation and Setup
